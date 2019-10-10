@@ -18,11 +18,11 @@
   src: url(https://js.org/font/jsorg.eot?#iefix) format("embedded-opentype"), url("data:font/x-woff;base64,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") format("woff"), url("https://js.org/font/jsorg.eot?#iefix") format("embedded-opentype"); }
 
 html {
-  background-color: #FFE70B; }
+  background-color: #e91e63; }
 
 body {
   padding: 0 5%;
-  color: #2c251b;
+  color: #e91e63;
   font-family: 'Source Sans Pro', Arial, Helvetica, sans-serif;
   line-height: 1.5;
   -webkit-text-size-adjust: 100%;
@@ -51,7 +51,7 @@ body {
   background: rgba(44, 37, 27, 0.5); }
 
 ::-webkit-scrollbar-thumb:active {
-  background: #2c251b; }
+  background: #e91e63; }
 
 p {
   margin: 1.5em 0; }
@@ -60,7 +60,7 @@ p {
     margin-top: .2em; }
 
 a {
-  color: #2c251b;
+  color: #e91e63;
   outline: none;
   border: none;
   text-decoration: none;
@@ -106,14 +106,14 @@ a {
     line-height: 1.2em;
     text-align: center;
     font-size: 2em;
-    color: #2c251b; }
+    color: #e91e63; }
   .hf .gh {
     padding: 2px 6px;
     margin: -2px -6px;
     line-height: 1.25em;
     width: auto;
     white-space: nowrap;
-    color: #2c251b; }
+    color: #e91e63; }
     .hf .gh span {
       min-width: 30px;
       display: none;
@@ -156,14 +156,14 @@ a {
     margin: 9vh 8% 3vh auto; } }
 
 ::selection {
-  color: #FFE70B;
-  background: #2c251b; }
+  color: white;
+  background: #e91e63; }
 
 em {
   letter-spacing: .1em;
   font-style: normal;
-  background: #2c251b;
-  color: #FFE70B;
+  background: #e91e63;
+  color: white;
   padding: 0 5px 1px 5px;
   margin: 0 6px 0 1px; }
 
@@ -192,20 +192,20 @@ a:hover {
     transition: all .2s .1s;*/ }
   #typewriter #hermes.active {
     padding-right: .1em;
-    border-right: 2px solid #2c251b; }
+    border-right: 2px solid #e91e63; }
 
 section {
   position: relative;
   padding: .5em 1px;
   margin: 1.5em 1px;
-  color: #FFE70B; }
+  color: white; }
   section a {
     font-weight: 700;
-    color: #FFE70B;
+    color: white;
     border-bottom: 1px solid currentColor;
     display: inline-block;
     line-height: 1;
-    text-shadow: 1px 1px #2c251b, 1px -1px #2c251b, -1px 1px #2c251b, -1px -1px #2c251b; }
+    text-shadow: 1px 1px #e91e63, 1px -1px #e91e63, -1px 1px #e91e63, -1px -1px #e91e63; }
     section a:hover {
       color: rgba(255, 231, 11, 0.5); }
   section input {
@@ -219,17 +219,17 @@ section {
     section input#s2I:checked ~ nav #s2L,
     section input#s3I:checked ~ nav #s3L,
     section input#s4I:checked ~ nav #s4L {
-      background-color: #2c251b;
-      color: #FFE70B; }
+      background-color: #e91e63;
+      color: white; }
   section nav {
     display: inline-table;
     border-collapse: collapse;
     margin: 0;
-    color: #2c251b; }
+    color: #e91e63; }
     section nav label {
       cursor: pointer;
       display: table-cell;
-      border: 2px solid #2c251b;
+      border: 2px solid #e91e63;
       border-top: none;
       left: 0;
       font-weight: 700;
@@ -246,16 +246,16 @@ section {
       transition: all .3s; }
       section nav label:hover {
         background: rgba(44, 37, 27, 0.3);
-        color: #2c251b; }
+        color: #e91e63; }
   section article {
     display: none;
-    background-color: #2c251b;
+    background-color: #e91e63;
     margin: 0;
     padding: 1.2em; }
     section article h3 {
       float: left;
-      color: #FFE70B;
-      border-right: 2px solid #FFE70B;
+      color: white;
+      border-right: 2px solid white;
       font-size: 4em;
       width: 1em;
       padding-top: .2em;
